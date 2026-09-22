@@ -1,10 +1,10 @@
 This is the pre-release GAP code accompanying the paper
 
-  "Group identification for the groups of order dividing $p^5$" (arxiv: TBA)
+  "Group identification for the groups of order dividing $p^5$"
 
 by Heiko Dietrich, Bettina Eick, and Henrik Schanze.
 
-Eventually this code will be distributed with a future release of GAP (TBA).
+Eventually this code will be distributed as a future GAP-package.
 
 Main file: Idp5.g
 
